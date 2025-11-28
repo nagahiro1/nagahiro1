@@ -1,4 +1,4 @@
-## Hi there 👋
+### 強化学習を勉強中！
 
 <!--
 **nagahiro1/nagahiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
